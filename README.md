@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @FatahChan
-- 👀 I’m interested in CP
-- 🌱 I’m currently learning more about Problem solving
-- 💞️ I’m looking to collaborate on Problem solving
-- 💰 I work as a Technical Support 
+- 👀 I’m interested in competitive programing, Game devlopment, and web devlopment
+- 🌱 I’m currently learning more about Forntend devlopment
+- 💞️ I’m looking to collaborate on Fullstack project
+- 💰 I work as a Tools Onwer (SaaS Manager)
 - 📫 How to reach me @FatahChan
 
 <!---
