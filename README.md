@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @FatahChan
-- 👀 I’m interested in competitive programing, Game devlopment, and web devlopment
-- 🌱 I’m currently learning more about Forntend devlopment
-- 💞️ I’m looking to collaborate on Fullstack project
-- 💰 I work as a Tools Onwer (SaaS Manager)
+- 👀 I’m interested in competitive programming, Game development, and web development
+- 🌱 I’m currently learning more about Frontend development
+- 💞️ I’m looking to collaborate on the Fullstack project
+- 💰 I am a Frontend developer @tempo.fit 
 - 📫 How to reach me @FatahChan
 
 <!---
