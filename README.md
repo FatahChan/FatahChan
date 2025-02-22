@@ -2,7 +2,7 @@
 - 👀 I’m interested in competitive programming, Game development, and web development
 - 🌱 I’m currently learning more about Frontend development
 - 💞️ I’m looking to collaborate on the Fullstack project
-- 💰 I am a Frontend developer @tempo.fit 
+- 💰 I am a Frontend developer @acksession
 - 📫 How to reach me @FatahChan
 
 <!---
